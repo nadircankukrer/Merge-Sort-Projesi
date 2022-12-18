@@ -1,6 +1,6 @@
 # Merge Sort Projesi
 
-##Proje 2
+## Proje 2
 
 ---
 
